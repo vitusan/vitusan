@@ -5,8 +5,8 @@
 
 
 
-- 🔭 I’m currently working on React and Springboot.
-- 🌱 I’m currently learning React and Springboot!
+- 🔭 I’m currently working on NestJS and Angular.
+- 🌱 I’m currently learning NestJS and Angular!
 - 📫 How to reach me: 0vetor0@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Legião Urbana was an awesome band from my hometown :)
