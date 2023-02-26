@@ -1,4 +1,8 @@
-# Hi there 👋, i'm Victor!
+<div align="center">
+	<a>
+		<img align="center" src="https://raw.githubusercontent.com/vitusan/vitusan/main/assets/banner%20(1).png" />	
+	</a>
+</div>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=vitusan.vitusan)
 [![Github](https://img.shields.io/github/followers/vitusan?label=Follow&style=social)](https://github.com/vitusan)
