@@ -46,7 +46,7 @@
 
 <div align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=vitusan&theme=tokyonight">
-  <img height="300" align="center" src="https://github-readme-stats.vercel.app/api?username=vitusan&count_private=true&show_icons=true&theme=radical" />
+  <img height="250" align="center" src="https://github-readme-stats.vercel.app/api?username=vitusan&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vitusan&hide=php&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitusan&hide=php&theme=tokyonight" />
