@@ -4,6 +4,8 @@
 	</a>
 </div>
 
+<img height="15" align="center" />
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=vitusan.vitusan)
 [![Github](https://img.shields.io/github/followers/vitusan?label=Follow&style=social)](https://github.com/vitusan)
 
@@ -12,6 +14,8 @@
 - 📫 How to reach me: 0vetor0@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Legião Urbana was an awesome band from my hometown :)
+
+<img height="30" align="center" />
 
 ## ✉️ Find me on:
 
@@ -47,11 +51,11 @@
 ## :trophy: My Github Stats:
 
 <div align="center">
-<a href="https://github-readme-stats.vercel.app/api?username=vitusan&theme=tokyonight">
+<a href="https://github-readme-stats.vercel.app/api?username=vitusan&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitusan&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vitusan&hide=php&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitusan&hide=php&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitusan&hide=php&theme=radical" />
 </a>
 </div>
 
