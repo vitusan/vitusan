@@ -44,10 +44,13 @@
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=vitusan&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=vitusan&count_private=true&show_icons=true&theme=tokyonight" />
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=vitusan&count_private=true&show_icons=true&theme=radical" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vitusan&hide=php&theme=tokyonight">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vitusan&hide=php&theme=radical">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitusan&hide=php&theme=tokyonight" />
 </a>
 </div>
 
+<div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vitusan&theme=radical)](https://git.io/streak-stats)
+</div>
