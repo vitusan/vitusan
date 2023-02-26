@@ -4,7 +4,7 @@
 	</a>
 </div>
 
-<img height="15" align="center" />
+<img height="10" align="center" />
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=vitusan.vitusan)
 [![Github](https://img.shields.io/github/followers/vitusan?label=Follow&style=social)](https://github.com/vitusan)
