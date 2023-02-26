@@ -44,14 +44,14 @@
 
 <div align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=vitusan&theme=tokyonight">
-  <img height="300" align="center" src="https://github-readme-stats.vercel.app/api?username=vitusan&count_private=true&show_icons=true&theme=radical" />
+  <img height="300" width="200" align="center" src="https://github-readme-stats.vercel.app/api?username=vitusan&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vitusan&hide=php&theme=radical">
   <img height="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitusan&hide=php&theme=tokyonight" />
 </a>
 </div>
 
-<img height="200" align="center" />
+<img height="30" align="center" />
 
 <div align="center">
 	<a>
