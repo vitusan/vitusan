@@ -40,6 +40,8 @@
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu" /></code>
 </div>
 
+<img height="30" align="center" />
+
 ## :trophy: My Github Stats:
 
 <div align="center">
@@ -55,6 +57,6 @@
 
 <div align="center">
 	<a>
-		<img height="300" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=vitusan&theme=radical" />	
+		<img height="200" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=vitusan&theme=radical" />	
 	</a>
 </div>
