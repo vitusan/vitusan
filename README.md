@@ -60,7 +60,7 @@
 </a>
 </div>
 
-<img height="30" align="center" />
+<img height="10" align="center" />
 
 <div align="center">
 	<a>
