@@ -3,8 +3,6 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=vitusan.vitusan)
 [![Github](https://img.shields.io/github/followers/vitusan?label=Follow&style=social)](https://github.com/vitusan)
 
-
-
 - 🔭 I’m currently working on NestJS and Angular.
 - 🌱 I’m currently learning Rust and Flutter!
 - 📫 How to reach me: 0vetor0@gmail.com
@@ -12,7 +10,6 @@
 - ⚡ Fun fact: Legião Urbana was an awesome band from my hometown :)
 
 ## ✉️ Find me on:
-
 
 <p align="center">
  <a href="https://vitusan.github.io/my-portifolio/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
@@ -23,6 +20,7 @@
 <br />
 
 ## 🧰 Languages and Tools:
+
 <div align="center">
 	<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" title="NestJS" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
@@ -46,7 +44,7 @@
 
 <div align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=vitusan&theme=tokyonight">
-  <img height="250" align="center" src="https://github-readme-stats.vercel.app/api?username=vitusan&count_private=true&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitusan&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vitusan&hide=php&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitusan&hide=php&theme=tokyonight" />
@@ -57,6 +55,6 @@
 
 <div align="center">
 	<a>
-		<img height="200" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=vitusan&theme=radical" />	
+		<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=vitusan&theme=radical" />	
 	</a>
 </div>
