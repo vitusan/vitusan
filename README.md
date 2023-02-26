@@ -44,15 +44,15 @@
 
 <div align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=vitusan&theme=tokyonight">
-  <img  align="right" src="https://github-readme-stats.vercel.app/api?username=vitusan&count_private=true&show_icons=true&theme=radical" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=vitusan&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vitusan&hide=php&theme=radical">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitusan&hide=php&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitusan&hide=php&theme=tokyonight" />
 </a>
 </div>
 
 <div align="center">
 	<a>
-		<img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=vitusan&hide=php&theme=tokyonight](http://github-readme-streak-stats.herokuapp.com?user=vitusan&theme=radical)" />	
+		<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=vitusan&theme=radical" />	
 	</a>
 </div>
