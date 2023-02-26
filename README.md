@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on NestJS and Angular.
-- 🌱 I’m currently learning NestJS and Angular!
+- 🌱 I’m currently learning Rust and Flutter!
 - 📫 How to reach me: 0vetor0@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Legião Urbana was an awesome band from my hometown :)
@@ -24,6 +24,7 @@
 
 ## 🧰 Languages and Tools:
 <div align="center">
+	<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" title="NestJS" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></code>
